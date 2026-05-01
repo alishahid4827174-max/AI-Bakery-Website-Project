@@ -15,9 +15,9 @@ An AI-generated bakery website created using AI tools to design content, layout,
 
 ## Screenshots
 
-![Home](image1.png)
-![Products](image2.png)
-![Menu](image3.png)
+![Home](image1.jpeg)
+![Products](image2.jpeg)
+![Menu](image3.jpeg)
 
 ## Live Demo
 (https://sprinkle-and-crumb.lovable.app/)
